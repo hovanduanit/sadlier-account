@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package account;
 
-option java_package = "com.example.account";
+option java_package = "com.sadlier.account";
 option java_outer_classname = "AccountProto";
 
 message UserRequest {

@@ -1,7 +1,7 @@
 package com.sadlier.sadlier_account;
 
-import com.example.account.AccountProto;
-import com.example.account.AccountServiceGrpc;
+import com.sadlier.account.AccountProto;
+import com.sadlier.account.AccountServiceGrpc;
 import io.grpc.stub.StreamObserver;
 import net.devh.boot.grpc.server.service.GrpcService;
 
